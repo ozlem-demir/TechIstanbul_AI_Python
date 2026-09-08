@@ -1,0 +1,24 @@
+AI-ML-DL farklar
+Yapay Zekâ (AI), Makine Öğrenimi (ML) ve Derin Öğrenme (DL) iç içe geçmiş kümelerdir: 
+AI, insan zekâsını taklit eden her türlü sistem veya kural tabanlı yazılımı kapsayan en geniş şemsiyedir. 
+ML, bu şemsiyenin altında yer alan ve açıkça kodlanmak yerine verideki örüntüleri istatistiksel olarak öğrenen 
+algoritmalar kümesidir. DL ise insan beynindeki nöron ağlarından esinlenen 
+çok katmanlı yapay sinir ağlarını kullanarak görüntü, ses ve karmaşık dil gibi 
+ham verilerden anlam çıkaran ML'in en derin ve güçlü alt kümesidir.
+
+
+RAG nedir ?
+Erişimle Güçlendirilmiş Üretim (RAG), bir dil modelini harici ve güncel bilgi kaynaklarıyla 
+(şirket içi dokümanlar, veri tabanları veya canlı web) bağlayan bir yöntemdir. 
+Model, sorulan soruya ezberindeki bilgilerle yanıt vermeden önce ilgili veri tabanında 
+anlamsal arama yaparak en doğru kaynak metinleri bulur; ardından bu kaynakları bağlam olarak 
+kullanarak yanıtı üretir. Bu yaklaşım, modellerin yanlış bilgi üretme (halüsinasyon) riskini 
+ciddi oranda düşürür ve modeli yeniden eğitmeye gerek kalmadan güncel tutar.
+
+
+Fine Tuning
+Fine Tuning, geniş kapsamlı genel verilerle önceden eğitilmiş temel bir modeli (foundation model), 
+belirli bir sektöre, göreve veya kurum kültürüne uyarlamak amacıyla daha küçük ve hedeflenmiş 
+bir veri kümesiyle ek eğitime tabi tutma işlemidir. Sıfırdan model geliştirmenin yüksek maliyetinden 
+kaçınarak; tıp terminolojisi, hukuk dili, müşteri hizmetleri üslubu veya belirli bir kod kütüphanesi 
+gibi niş alanlarda modelin uzmanlaşmasını ve yüksek performans göstermesini sağlar.

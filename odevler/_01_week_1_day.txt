@@ -1,0 +1,15 @@
+LLM Nedir ?
+Büyük Dil Modeli (LLM), devasa metin verileri üzerinde eğitilerek insan dilini anlama, 
+özetleme, tercüme etme ve bağlama uygun yeni metinler üretme yeteneği kazandırılmış gelişmiş 
+bir yapay zekâ modelidir. Genellikle Transformer mimarisine dayanan bu sistemler, 
+dildeki kelimelerin ve kavramların birbirleriyle olan istatistiksel ilişkilerini hesaplayarak bir 
+sonraki en olası kelimeyi tahmin etme prensibiyle çalışır; modern sohbet botlarının 
+ve üretken yapay zekâ araçlarının temel motorunu oluşturur.
+
+
+Large Language Model : Büyük Dil Modeli
+Tanımdaki "büyük" ifadesi hem modelin eğitildiği trilyonlarca kelimelik devasa veri hacmini 
+hem de sinir ağının barındırdığı milyarlarca (bazen yüz milyarlarca) parametreyi temsil eder. 
+Modelin ölçeği ve parametre sayısı arttıkça, yalnızca basit dil kurallarını öğrenmekle kalmaz; 
+akıl yürütme, karmaşık kod yazma, mantık yürütme ve çok adımlı görevleri çözme gibi doğrudan hedeflenmemiş 
+"ortaya çıkan yetenekler" (emergent abilities) sergilemeye başlar.
