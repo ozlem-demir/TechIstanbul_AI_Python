@@ -1,3 +1,0 @@
-AI-ML-DL farklar
-RAG nedir ?
-Fine Tuning
